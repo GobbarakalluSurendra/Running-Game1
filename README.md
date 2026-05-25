@@ -3,7 +3,7 @@
 Welcome to **Shadow Dog Runner**, a professional, high-performance endless runner web application built using the MERN stack (MongoDB, Express, React, Node.js). 
 
 This project is fully deployed:
-- **Live Website (Frontend)**: [https://running-game1.netlify.app/](https://running-game1.netlify.app/)
+- **Live Website (Frontend)**: [https://black-cati.netlify.app/](https://black-cati.netlify.app/)
 - **Live API Server (Backend)**: [https://running-game1.onrender.com/](https://running-game1.onrender.com/)
 
 ---
