@@ -14,6 +14,10 @@ app.use(express.json());
 // Routes
 app.use('/api/scores', scoreRoutes);
 
+app.get('/', (req, res) => {
+  res.json({ message: "🐶 Shadow Dog Runner API is running successfully!" });
+});
+
 // Database Connection
 const PORT = process.env.PORT || 5000;
 const MONGO_URI = process.env.MONGO_URI || 'mongodb://localhost:27017/running-game';
